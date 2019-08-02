@@ -1,0 +1,19 @@
+{
+  "global": {
+    "min_ether_in_wallet": "0.1"
+  },
+  "tokens": [
+    {
+      "token": "0xac55641cbb734bdf6510d1bbd62e240c2409040f",
+      "blockchain": "ETC",
+      "rsi_sell": 55.5,
+      "rsi_buy": 47
+    },
+    {
+      "token": "0xb9440022a095343b440d590fcd2d7a3794bd76c8",
+      "blockchain": "ETH",
+      "rsi_sell": 52,
+      "rsi_buy": 48
+    }
+  ]
+}
